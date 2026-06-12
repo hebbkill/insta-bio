@@ -153,7 +153,7 @@ export default function App() {
           <div className="flex flex-col gap-5 mt-4">
             
             {/* CARD 1 - AULA GRATUITA (Gold Glow) */}
-            <a href="#" className="card-interactive card-enter card-enter-1 card-pulse group flex flex-col rounded-[20px] overflow-hidden bg-[#151515] border border-[#E0B565]/30 transition-shadow">
+            <a href="https://www.aruptura.site/" target="_blank" rel="noopener noreferrer" className="card-interactive card-enter card-enter-1 card-pulse group flex flex-col rounded-[20px] overflow-hidden bg-[#151515] border border-[#E0B565]/30 transition-shadow">
               <div className="corner-crack"></div>
               {/* Top Half Art */}
               <div className="h-[140px] relative flex flex-col items-center justify-center bg-[#0A0A0B] overflow-hidden">
@@ -196,7 +196,7 @@ export default function App() {
             </a>
 
             {/* CARD 2 - MENTORIA / PRODUTO */}
-            <a href="#" className="card-interactive card-enter card-enter-2 group flex flex-col rounded-[20px] overflow-hidden bg-[#151515] border border-white/[0.08] transition-shadow hover:border-white/15">
+            <a href="https://oficial.aruptura.site/" target="_blank" rel="noopener noreferrer" className="card-interactive card-enter card-enter-2 group flex flex-col rounded-[20px] overflow-hidden bg-[#151515] border border-white/[0.08] transition-shadow hover:border-white/15">
               {/* Top half Art */}
               <div className="h-[140px] relative flex flex-col justify-center items-center bg-[#0A0A0B] overflow-hidden">
                 <div className="absolute inset-0 bg-[radial-gradient(#E8B23A_1px,transparent_1px)] opacity-[0.03] bg-[size:12px_12px]"></div>
