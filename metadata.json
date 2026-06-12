@@ -1,0 +1,6 @@
+{
+  "name": "Link na Bio - Hebber Magalhães",
+  "description": "Página link na bio de alta conversão para Hebber Magalhães, focada no tema A Ruptura.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
