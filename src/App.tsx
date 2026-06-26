@@ -143,9 +143,6 @@ export default function App() {
               <p className="text-[#F2F2F0] font-medium text-[15px] leading-snug">
                 "Você não precisa de mais informação.<br/>Precisa de uma ruptura."
               </p>
-              <p className="mt-1 text-[13px]">
-                Eu passei 1 ano travado. Sabendo de tudo, fazendo nada. Até que algo me acordou — e em 4 meses eu virei a chave. O caminho exato que eu fiz tá aqui embaixo. Começa de graça.
-              </p>
             </div>
           </div>
 
