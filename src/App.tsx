@@ -183,7 +183,7 @@ export default function App() {
               {/* Bottom Half */}
               <div className="flex items-center justify-between p-4 bg-[#151515] relative z-20">
                 <div className="flex flex-col max-w-[65%] pr-2">
-                    <h3 className="text-white text-[14px] font-semibold tracking-tight truncate group-[&:not(:active)]:hover:whitespace-normal transition-all"><span className="phone-ring">📞</span> Atenda a ligação do seu futuro</h3>
+                    <h3 className="text-white text-[14px] font-semibold tracking-tight truncate group-[&:not(:active)]:hover:whitespace-normal transition-all"><span className="phone-ring">📞</span> Comece aqui: Atenda a ligação do seu futuro</h3>
                     <p className="text-gray-400 text-[11px] mt-0.5 truncate group-[&:not(:active)]:hover:whitespace-normal">Uma experiência de 3 fases. Não é aula de produtividade — é o caminho de volta pra você mesmo.</p>
                 </div>
                 <button className="bg-[#E0B565] text-black text-[12px] font-bold px-4 py-2 rounded-full whitespace-nowrap group-[&:not(:active)]:hover:bg-[#d4a856] transition-colors pointer-events-none">
@@ -214,7 +214,7 @@ export default function App() {
               {/* Bottom half */}
               <div className="flex items-center justify-between p-4 bg-[#151515] relative z-20">
                 <div className="flex flex-col max-w-[65%] pr-2">
-                    <h4 className="text-white text-[14px] font-semibold tracking-tight">A Ruptura</h4>
+                    <h4 className="text-white text-[14px] font-semibold tracking-tight">Entrar na turma fundadora</h4>
                     <p className="text-gray-400 text-[11px] mt-0.5 group-[&:not(:active)]:hover:whitespace-normal truncate">O método completo: Reconexão, Visão e Materialização. Condição de fundador por tempo limitado.</p>
                     <p className="text-gray-500 text-[10px] mt-1">Acesso imediato por 1 ano</p>
                 </div>
@@ -251,7 +251,7 @@ export default function App() {
 
               <div className="flex items-center justify-between p-4 bg-[#151515] relative z-20">
                 <div className="flex flex-col max-w-[65%] pr-2">
-                    <h4 className="text-white text-[14px] font-semibold tracking-tight">Canal YouTube</h4>
+                    <h4 className="text-white text-[14px] font-semibold tracking-tight">YouTube / bastidores</h4>
                     <p className="text-gray-400 text-[11px] mt-0.5 truncate group-[&:not(:active)]:hover:whitespace-normal">A jornada real, documentada. Sem filtro, sem teoria.</p>
                 </div>
                 <button className="bg-[#EF4444] text-white text-[12px] font-bold px-4 py-2 rounded-full whitespace-nowrap group-[&:not(:active)]:hover:bg-[#dc2626] transition-colors shadow-md shadow-red-900/20 pointer-events-none">
