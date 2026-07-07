@@ -214,7 +214,7 @@ export default function App() {
               {/* Bottom half */}
               <div className="flex items-center justify-between p-4 bg-[#151515] relative z-20">
                 <div className="flex flex-col max-w-[65%] pr-2">
-                    <h4 className="text-white text-[14px] font-semibold tracking-tight">Entrar na turma fundadora</h4>
+                    <h4 className="text-white text-[14px] font-semibold tracking-tight">Já atendi. Quero conhecer A Ruptura</h4>
                     <p className="text-gray-400 text-[11px] mt-0.5 group-[&:not(:active)]:hover:whitespace-normal truncate">O método completo: Reconexão, Visão e Materialização. Condição de fundador por tempo limitado.</p>
                     <p className="text-gray-500 text-[10px] mt-1">Acesso imediato por 1 ano</p>
                 </div>
@@ -224,41 +224,7 @@ export default function App() {
               </div>
             </a>
 
-            {/* CARD 3 - YOUTUBE */}
-            <a href="https://www.youtube.com/@hb.magalhaes" target="_blank" rel="noopener noreferrer" className="card-interactive card-enter card-enter-3 group flex flex-col rounded-[20px] overflow-hidden bg-[#151515] border border-white/[0.08] transition-shadow hover:border-white/15">
-              <div className="h-[140px] relative flex flex-col items-center justify-center bg-[#0A0A0B] overflow-hidden">
-                <div className="absolute inset-0 bg-[radial-gradient(#E8B23A_1px,transparent_1px)] opacity-[0.03] bg-[size:12px_12px]"></div>
-                
-                <div className="relative z-10 flex flex-col items-center mt-2">
-                    {/* 16:9 minimalist player */}
-                    <div className="w-[144px] h-[81px] border border-white/10 rounded-[6px] bg-[#0E0E0F] shadow-[0_4px_20px_rgba(0,0,0,0.5)] flex items-center justify-center relative overflow-hidden group-[&:not(:active)]:hover:border-[#E8B23A]/30 transition-colors duration-500">
-                       <div className="absolute top-0 left-0 w-full h-[1px] bg-gradient-to-r from-transparent via-white/10 to-transparent"></div>
-                       {/* subtle red accent at the bottom (progress bar) */}
-                       <div className="absolute bottom-0 left-0 w-full h-[1.5px] bg-white/5">
-                          <div className="w-[30%] h-full bg-[#8B2E2E]"></div>
-                       </div>
-                       
-                       <div className="w-[36px] h-[36px] rounded-full border border-[#E8B23A]/40 bg-[#E8B23A]/10 flex items-center justify-center shadow-[0_0_15px_rgba(232,178,58,0.15)] group-[&:not(:active)]:hover:scale-105 transition-transform duration-300">
-                           <div className="w-0 h-0 border-t-[5px] border-t-transparent border-l-[8px] border-l-[#E8B23A] border-b-[5px] border-b-transparent translate-x-[1.5px] opacity-90"></div>
-                       </div>
-                    </div>
-                </div>
 
-                <div className="absolute top-3 left-3 border border-[#E8B23A]/20 text-[#E8B23A] text-[8px] font-bold uppercase tracking-widest px-2.5 py-1 rounded-sm backdrop-blur-md bg-[#E8B23A]/5">
-                   NOVOS VÍDEOS
-                </div>
-              </div>
-
-              <div className="flex items-center justify-between p-4 bg-[#151515] relative z-20">
-                <div className="flex flex-col max-w-[65%] pr-2">
-                    <h4 className="text-white text-[14px] font-semibold tracking-tight">YouTube / bastidores</h4>
-                    <p className="text-gray-400 text-[11px] mt-0.5 truncate group-[&:not(:active)]:hover:whitespace-normal">A jornada real, documentada. Sem filtro, sem teoria.</p>
-                </div>
-                <button className="bg-[#EF4444] text-white text-[12px] font-bold px-4 py-2 rounded-full whitespace-nowrap group-[&:not(:active)]:hover:bg-[#dc2626] transition-colors shadow-md shadow-red-900/20 pointer-events-none">
-                    Subscrever
-                </button>
-              </div>
-            </a>
 
           </div>
 
